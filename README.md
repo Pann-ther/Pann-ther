@@ -10,10 +10,10 @@ Je m'appelle Kylian Chebbah, et je suis actuellement en formation **Technicien S
 
 ## 📂 Mes Projets Actuels (mise à jour au fur et à mesure de ma progression général)
 
-- **Développement Java** : Vous trouverez des projets et exercices Java documentés, reflétant ma progression dans ce langage.
-- **Developpement d'un jeu** : Projet de realiser le jeu du Mahjongg en interface graphique pour appliquer toutes mes connaissances en POO
+- **Gestion d'une course de cyclisme** : Realisation d'un programme pour gerer la course (de l'enregistrement des coureurs au tracking des evenements de la course.
+- **Developpement d'un jeu** : Realiser le jeu du Mahjongg en interface graphique pour appliquer toutes mes connaissances en POO.
 
-## 📈 Mon Profil Technique
+## 📈 Ma Stack Technique
 
 - **Langages de Programmation** : Java, PowerShell 
 - **Outils Dev** : Git, GitHub, VSCode
