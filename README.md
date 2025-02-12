@@ -15,7 +15,7 @@ Je m'appelle Kylian Chebbah, et je suis actuellement en formation **Technicien S
 
 ## 📈 Ma Stack Technique
 
-- **Langages de Programmation** : Java, PowerShell 
+- **Langages de Programmation** : Java, PowerShell, Bash, Python
 - **Outils Dev** : Git, GitHub, VSCode
 
 ## 🌱 En cours d'apprentissage
