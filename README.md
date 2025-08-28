@@ -1,6 +1,6 @@
 # 👋 Bienvenue sur mon profil GitHub !
 
-Je m'appelle Kylian Chebbah, et je suis actuellement en formation **Technicien Supérieur Systèmes et Réseaux (TSSR)** et en première année de **licence informatique au CNAM**. 
+Je m'appelle Kylian Chebbah, et je suis actuellement diplomé d'un bac +2 **Technicien Supérieur Systèmes et Réseaux (TSSR)** et en troisième année de **licence informatique au CNAM**. 
 
 ## 🎯 Mes Objectifs
 
