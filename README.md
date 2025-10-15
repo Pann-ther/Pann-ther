@@ -20,7 +20,7 @@ Je m'appelle Kylian Chebbah, et je suis actuellement diplomé d'un bac +2 **Tech
 
 ## 🌱 En cours d'apprentissage
 
-- **Programmation en Java** : de l’initiation à la programmation orientée objets.
+- **Programmation en Python** : de la programmation orientée objet au concept avancés.
 - **Infrastructure as Code (IaC)** : Approfondir mes compétences pour gérer et déployer des infrastructures via le code.
 
 ## 🔗 Retrouve-moi
