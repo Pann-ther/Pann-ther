@@ -2,9 +2,9 @@
 
 ## Présentation  
 
-**Nom :** Kylian Chebbah
-**Profession :** administrateur système et réseau
-**Niveau d'etudes :** Bac +3
+**Nom :** Kylian Chebbah  
+**Profession :** administrateur système et réseau  
+**Niveau d'etudes :** Bac +3  
 
 ## Stack technique
 
